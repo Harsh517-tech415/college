@@ -1,2 +1,1 @@
-# college-cms
-# server
+# college
